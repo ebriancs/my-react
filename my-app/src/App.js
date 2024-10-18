@@ -640,7 +640,7 @@ function Contact() {
           }`}
         >
           <embed
-            src={process.env.PUBLIC_URL + "/pdfs/johnebrian_manalo_resume.pdf"}
+            src={process.env.PUBLIC_URL + "/pdfs/johnebrianmanalo_resume.pdf"}
             type="application/pdf"
           />
         </div>
